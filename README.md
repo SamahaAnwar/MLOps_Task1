@@ -11,7 +11,7 @@ git checkout -b member1_branch
 
 ![image](https://github.com/SamahaAnwar/MLOps_Task1/assets/125579387/98935fac-2e96-4591-88fb-76adec8ee664)
 
-
+![image1](ss1.png)
 
 
 
