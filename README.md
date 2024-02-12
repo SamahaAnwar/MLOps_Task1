@@ -6,5 +6,6 @@ git checkout -b dev
 git checkout -b test
 git checkout -b master
 git checkout -b member1_branch
-![image](https://github.com/SamahaAnwar/MLOps_Task1/assets/125579387/ce3e698d-468b-4484-abda-f48fcc18374b)
+![image](https://github.com/SamahaAnwar/MLOps_Task1/assets/125579387/6267707d-36d5-4353-bf61-5c9e89b66379)
+
 
